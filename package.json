@@ -1,0 +1,25 @@
+{
+  "name": "exemplo-uso-webdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -t 60000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacifm/exemplo-uso-webdriver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/isaacifm/exemplo-uso-webdriver/issues"
+  },
+  "homepage": "https://github.com/isaacifm/exemplo-uso-webdriver#readme",
+  "dependencies": {
+    "mocha": "^11.7.5",
+    "selenium-webdriver": "^4.43.0"
+  }
+}
